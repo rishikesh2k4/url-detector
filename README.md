@@ -9,9 +9,9 @@ https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset?resource=downlo
 
 ## 👥 Team & Hackathon Context
 
-- 🧠 **Hackathon**: Conducted at Dayananda Sagar Institutions
-- 👨‍💻 **Team Size**: 5 Members  
-- 🏁 **Goal**: Build a URL classification engine using NLP and ML
+- **Hackathon**: Conducted at Dayananda Sagar Institutions
+- **Team Size**: 5 Members  
+- **Goal**: Build a URL classification engine using NLP and ML
 
 
 
@@ -53,27 +53,31 @@ https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset?resource=downlo
 ## 👨🏻‍💻 Result
 
 
-url
+![CLI Output](https://github.com/rishikesh2k4/url-detector/blob/main/assets/urlop1.png)
 
-url
+![CLI Output](https://github.com/rishikesh2k4/url-detector/blob/main/assets/urlop2.png)
 
 
 - **Multinomial Naive Bayesian with TF-IDF**
 
-
+![CLI Output](https://github.com/rishikesh2k4/url-detector/blob/main/assets/urlop3.png)
 
 
 - **Multinomial Naive Bayesian with Count Vectorizer**
 
-
+![CLI Output](https://github.com/rishikesh2k4/url-detector/blob/main/assets/urlop4.png)
 
 
 - **Logistic Regression with TF-IDF**
 
+![CLI Output](https://github.com/rishikesh2k4/url-detector/blob/main/assets/urlop5.png)
 
 
 - **Logistic Regression with Count Vectorizer**
 
+![CLI Output](https://github.com/rishikesh2k4/url-detector/blob/main/assets/urlop6.png)
 
 
 - **Final Result**
+
+![CLI Output](https://github.com/rishikesh2k4/url-detector/blob/main/assets/urlop7.png)
